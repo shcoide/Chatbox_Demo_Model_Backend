@@ -2,7 +2,7 @@
 
 This is the backend code of the chatbox, it is not hosted.
 
-Frontend is live at: https://proposeme.netlify.app/
+Frontend code is at : (https://github.com/shcoide/chatbox-frontend)
 
 ## Working
 
